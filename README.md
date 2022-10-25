@@ -1,2 +1,2 @@
 # hello_git
-Hello World repository for git tutorial by Vikram.
+Hello World repository for git tutorial by Vikram Virwani.
