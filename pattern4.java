@@ -1,6 +1,7 @@
 public class pattern4 {
     public static void main(String args[])
     {
+        System.out.println("Hello World");
         int n = Integer.parseInt(args[0]);
 		for(int r=1;r<=n;r++)
 		{
